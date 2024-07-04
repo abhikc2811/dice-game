@@ -15,7 +15,8 @@
 }
 
 body {
-  background-color: #393E46;
+  background: url('images/dicebackground.jpg') center fixed;
+  background-size: contain;
 }
 
 h1 {
